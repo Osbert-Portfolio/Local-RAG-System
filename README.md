@@ -23,4 +23,3 @@ This project implements a **Retrieval-Augmented Generation (RAG) system**, combi
 - 🐍 **Python Libraries:** LangChain, Ollama
 - 🔍 **Document Retrieval:** Vector Search, Embeddings
 - 🤖 **LLM Model:** Mistral LLM via Ollama
-- 📓 **Jupyter Notebook:** Interactive testing and fine-tuning
